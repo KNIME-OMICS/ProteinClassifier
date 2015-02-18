@@ -18,7 +18,7 @@
          point="org.knime.workbench.repository.nodes">
       <node
             category-path="/"
-            factory-class="uni.tubingen.inference.util.ProteinClassifierNodeFactory"
+            factory-class="uni.tubingen.inference.proteinclassifier.ProteinClassifierNodeFactory"
             id="uni.tubingen.inference.ProteinClassifierNodeFactory"/>
    </extension>
    

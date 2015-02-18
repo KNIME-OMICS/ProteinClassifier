@@ -1,4 +1,4 @@
-package uni.tubingen.inference.util;
+package uni.tubingen.inference.proteinclassifier;
 
 import org.knime.core.node.NodeView;
 

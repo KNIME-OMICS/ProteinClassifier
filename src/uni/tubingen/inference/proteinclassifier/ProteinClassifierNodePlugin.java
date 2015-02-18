@@ -2,7 +2,7 @@
  * $Revision$ $Date$ $Author$
  *
  */
-package uni.tubingen.inference.util;
+package uni.tubingen.inference.proteinclassifier;
 
 import org.eclipse.core.runtime.Plugin;
 import org.osgi.framework.BundleContext;
